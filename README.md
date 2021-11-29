@@ -95,6 +95,11 @@
 
 </details>
 
+### 📕 Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://www.facebook.com/profile.php?id=100012103698354
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
