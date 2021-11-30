@@ -60,7 +60,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 My current reading list
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -94,11 +94,6 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-
-### 📕 Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 [website]: https://www.facebook.com/profile.php?id=100012103698354
 [course]: https://github.com/Nauqh/Sentiment-Analysis
