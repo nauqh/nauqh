@@ -6,7 +6,7 @@
 ## I'm a Learner, Dreamer, (and will be) a Data scientist, Developer!!
 
 - 🔭 I just launched my first project: [Personal Discord Bot][course]!
-- 🌱 I’m currently learning Data science 🤣
+- 🌱 I’m currently learning Data science 📑
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love movies and music
