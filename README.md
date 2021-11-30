@@ -101,7 +101,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://www.facebook.com/profile.php?id=100012103698354
-[course]: http://vsCodeHero.com
+[course]: https://github.com/Nauqh/Sentiment-Analysis
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/nauqh_21/
