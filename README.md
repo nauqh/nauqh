@@ -45,7 +45,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 
@@ -60,14 +60,14 @@
 
 ---
 
-### 📕 My current reading list
+### 📚 My current reading list
 
 <!-- BLOG-POST-LIST:START -->
 
 - [DeepNeuron x AWS - Deep Learning Workshop](https://www.deepneuron.org/industry-blogs/2021/9/11/deepneuron-x-aws-deep-learning-workshop)
 - [PyTorch Models and CNN Theory](https://www.deepneuron.org/dl-blogs/2021/9/8/pytorch-models-and-cnn-theory-part-1)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Problem Solving with Algorithms and Data Structures using Python¶](https://runestone.academy/runestone/books/published/pythonds/index.html)
+- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [Writing An Hadoop MapReduce Program In Python](https://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
