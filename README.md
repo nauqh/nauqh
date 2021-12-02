@@ -96,7 +96,7 @@
 </details>
 
 [website]: https://www.facebook.com/profile.php?id=100012103698354
-[course]: https://github.com/Nauqh/Sentiment-Analysis
+[course]: https://github.com/Nauqh/Discord-Bot
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/nauqh_21/
@@ -105,5 +105,3 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
-[spotify]:
