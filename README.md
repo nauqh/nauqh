@@ -64,14 +64,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [DeepNeuron x AWS - Deep Learning Workshop](https://www.deepneuron.org/industry-blogs/2021/9/11/deepneuron-x-aws-deep-learning-workshop)
+- [PyTorch Models and CNN Theory](https://www.deepneuron.org/dl-blogs/2021/9/8/pytorch-models-and-cnn-theory-part-1)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Problem Solving with Algorithms and Data Structures using Python¶](https://runestone.academy/runestone/books/published/pythonds/index.html)
+- [Writing An Hadoop MapReduce Program In Python](https://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://www.deepneuron.org/)
 
 ---
 
