@@ -60,7 +60,7 @@
 
 ---
 
-### 📚 My current reading list
+### 📚 My current playlist
 
 <!-- BLOG-POST-LIST:START -->
 
