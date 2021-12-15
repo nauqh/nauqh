@@ -1,7 +1,10 @@
 ### Hi there, I'm Minh Quan - aka [Nauqh][website] 👋
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+<br>
+
+[![Website](https://img.shields.io/website?label=Nauqh.github.io&style=for-the-badge&up_message=Join&url=https%3A%2F%2Fnauqh.github.io)](https://nauqh.github.io)
+[![Twitter Follow](https://img.shields.io/discord/872141661038313503?color=blue&label=%F0%9F%93%BADiscord&style=for-the-badge)](https://discord.gg/pv3jASXKMY)
+![Reddit](https://img.shields.io/reddit/subreddit-subscribers/DataScience?style=for-the-badge)
 
 ## I'm a Learner, Dreamer, (and will be) a Data scientist, Developer!!
 
@@ -98,7 +101,7 @@
 [website]: https://nauqh.github.io
 [course]: https://github.com/Nauqh/Discord-Bot
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/watch?v=PY8f1Z3nARo
 [instagram]: https://www.instagram.com/nauqh_
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
