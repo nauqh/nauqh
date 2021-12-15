@@ -1,8 +1,7 @@
 ## Hi there, I'm Minh Quan - aka [Nauqh][website] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<br>
 
-:mailbox: Reach me out! You are my ⏬↙️
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nauqh.nauqh)
+:mailbox: Reach me out! You are my 🏹 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nauqh.nauqh)
 
 <br>
 
