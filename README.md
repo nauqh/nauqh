@@ -15,11 +15,15 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love movies and music
 
-#### Top Technologies
+### Top Technologies
+<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img align="left" alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+<img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5%20-ff0000.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="left" alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="left" alt="C++"  src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![Java Badge](https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#)&nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)&nbsp; [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#)&nbsp; [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)&nbsp; [![R Badge](https://img.shields.io/badge/-html/css-e535ab?style=for-the-badge&labelColor=black&logo=markdown&logoColor=e535ab)](#)
 
 ### Connect with me:
 
