@@ -21,7 +21,7 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Java Badge](https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![R Badge](https://img.shields.io/badge/-html/css-e535ab?style=for-the-badge&labelColor=black&logo=markdown&logoColor=e535ab)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#)&nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)&nbsp; [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#)&nbsp; [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)&nbsp; [![R Badge](https://img.shields.io/badge/-html/css-e535ab?style=for-the-badge&labelColor=black&logo=markdown&logoColor=e535ab)](#)
 
 ### Connect with me:
 
