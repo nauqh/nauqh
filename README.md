@@ -91,7 +91,7 @@
   <summary>:zap: Languages</summary>
   <br/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nauqh&layout=compact&theme=nord)](https://github.com/nauqh)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nauqh&layout=compact&theme=yeblu)](https://github.com/nauqh)
   
 <!--START_SECTION:activity-->
 <!-- 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
