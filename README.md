@@ -109,10 +109,10 @@
 
 [website]: https://nauqh.github.io
 [course]: https://github.com/Nauqh/Discord-Bot
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://www.instagram.com/nauqh_/
 [youtube]: https://www.youtube.com/watch?v=PY8f1Z3nARo
-[instagram]: https://www.instagram.com/nauqh_
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/nauqh_/
+[linkedin]: https://www.instagram.com/nauqh_/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
