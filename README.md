@@ -103,7 +103,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Nauqh GitHub stats](https://github-readme-stats.vercel.app/api?username=nauqh)](https://github.com/nauqh)
+  [![Nauqh GitHub stats](https://github-readme-stats.vercel.app/api?username=nauqh&show_icons=true&theme=radical)](https://github.com/nauqh)
 
 </details>
 
