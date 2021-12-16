@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/discord/872141661038313503?color=blue&label=%F0%9F%93%BADiscord&style=for-the-badge)](https://discord.gg/pv3jASXKMY)
 ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/DataScience?style=for-the-badge)
 
-## I'm a Data Engineer, Web Developer, Admin Server!
+## I'm a Data Engineer, Web Developer, Discord Server Admin!
 
 - 🔭 I just launched my first project: [Personal Discord Bot][course]!
 - :computer: I’m currently learning Data science 📑
