@@ -87,8 +87,8 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<!-- <details>
+  <summary>:zap: Recent GitHub Activity</summary> -->
   
 <!--START_SECTION:activity-->
 <!-- 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
