@@ -7,9 +7,9 @@
 [![Twitter Follow](https://img.shields.io/discord/872141661038313503?color=blue&label=%F0%9F%93%BADiscord&style=for-the-badge)](https://discord.gg/pv3jASXKMY)
 ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/DataScience?style=for-the-badge)
 
-## I'm `striving to be`a Data Engineer, Web Developer!
+## I'm `striving to be` a Data Engineer, Web Developer!
 
-- 🔭 I just launched my first project: [Personal Discord Bot][course]!
+- 🔭 I just launched my first website: [Online Portfolio][website]!
 - :computer: I’m currently learning Data science 📑
 - 👯 I’m looking to collaborate with other content creators
 - 🚀 2022 Goals: Contribute more to Open Source projects
@@ -69,7 +69,6 @@
 </details>
 
 [website]: https://nauqh.github.io
-[course]: https://github.com/Nauqh/Discord-Bot
 [twitter]: https://www.instagram.com/nauqh_/
 [youtube]: https://www.youtube.com/watch?v=PY8f1Z3nARo
 [instagram]: https://www.instagram.com/nauqh_/
