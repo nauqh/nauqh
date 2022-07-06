@@ -1,21 +1,20 @@
-## Hi there, I'm Minh Quan - aka [Nauqh][website]
-<br>
+## Hi there, I'm Minh Quan 😴 
 
 ![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![Website](https://img.shields.io/website?label=Nauqh.github.io&style=for-the-badge&up_message=Join&url=https%3A%2F%2Fnauqh.github.io)](https://nauqh.github.io)
-[![Twitter Follow](https://img.shields.io/discord/872141661038313503?color=blue&label=%F0%9F%93%BADiscord&style=for-the-badge)](https://discord.gg/pv3jASXKMY)
-![Reddit](https://img.shields.io/reddit/subreddit-subscribers/DataScience?style=for-the-badge)
+[![Version](https://img.shields.io/badge/nauqh-V2.0.0-blue?style=for-the-badge)](https://nauqh.github.io)
+![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)
+![Reddit](https://img.shields.io/reddit/subreddit-subscribers/DataScience?style=for-the-badge&color=blue)
 
 ## I'm `striving to be` a Data Engineer, Web Developer!
 
 - 🔭 I just launched my first website: [Online Portfolio][website]!
-- :computer: I’m currently learning Data science 📑
-- 👯 I’m looking to collaborate with other content creators
-- 🚀 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love movies and music
+- :computer: I’m currently learning Data science 
+- 🔧 I’m looking to collaborate with other content creators
+- 📌 2022 Goals: Contribute more to Open Source projects
+- 📝 Fun fact: I love movies and music
 
-### Top Technologies
+### Tools
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
@@ -43,7 +42,7 @@
 
 - [DeepNeuron x AWS - Deep Learning Workshop](https://www.deepneuron.org/industry-blogs/2021/9/11/deepneuron-x-aws-deep-learning-workshop)
 - [PyTorch Models and CNN Theory](https://www.deepneuron.org/dl-blogs/2021/9/8/pytorch-models-and-cnn-theory-part-1)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Hikari - A new, powerful, static-typed Python API for writing Discord bots](https://www.hikari-py.dev/)
 - [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [Writing An Hadoop MapReduce Program In Python](https://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/)
 <!-- BLOG-POST-LIST:END -->
@@ -53,7 +52,7 @@
 ---
 
 <details>
-  <summary>:computer: Languages</summary>
+  <summary>📂 Languages</summary>
   <br/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nauqh&layout=compact&theme=yeblu)](https://github.com/nauqh)
@@ -61,7 +60,7 @@
 </details>
 
 <details>
-  <summary>:computer: GitHub Stats</summary>
+  <summary>📂 GitHub Stats</summary>
   <br/>
 
   [![Nauqh GitHub stats](https://github-readme-stats.vercel.app/api?username=nauqh&show_icons=true&theme=algolia)](https://github.com/nauqh)
