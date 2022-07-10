@@ -3,8 +3,8 @@
 ![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)
 
 [![Version](https://img.shields.io/badge/nauqh-V2.0.0-blue?style=for-the-badge)](https://nauqh.github.io)
-![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)
 ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/DataScience?style=for-the-badge&color=blue)
+![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)
 
 ## I'm `striving to be` a Data Engineer, Web Developer!
 
