@@ -8,7 +8,7 @@
 
 ## I'm `striving to be` a Data Engineer, Web Developer!
 
-- 🔭 I just launched my first website: [Online Portfolio][website]!
+- 🎧 I just launched my second project: [Resonance][resonance]!
 - :computer: I’m currently learning Data science 
 - 🔧 I’m looking to collaborate with other content creators
 - 📌 2022 Goals: Contribute more to Open Source projects
@@ -73,3 +73,4 @@
 [instagram]: https://www.instagram.com/nauqh_/
 [linkedin]: https://www.instagram.com/nauqh_/
 [error]: https://nauqh.github.io/error.html
+[resonance]: https://github.com/nauqh/Resonance
