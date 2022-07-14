@@ -1,6 +1,7 @@
-## Hi there, I'm Minh Quan 😴 
+## I'm a wanderer in the vast virtual space of the internet 🛰️
 
 ![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="bb8.gif" height="100"/>
 
 [![Version](https://img.shields.io/badge/nauqh-V2.0.0-blue?style=for-the-badge)](https://nauqh.github.io)
 ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/DataScience?style=for-the-badge&color=blue)
