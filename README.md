@@ -10,7 +10,7 @@
 
 - 🎧 I just launched my second project: [Resonance][resonance]!
 - :computer: I’m currently learning Data science 
-- 🔧 I’m looking to collaborate with other content creators
+- 🗑️ I’m looking to collaborate with other content creators
 - 📌 2022 Goals: Contribute more to Open Source projects
 - 📝 Fun fact: I love movies and music
 
