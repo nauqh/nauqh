@@ -7,21 +7,21 @@
 ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/DataScience?style=for-the-badge&color=blue)
 ![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)
 
-## I'm `striving to be` a Data Engineer, Web Developer!
+## I'm `striving to be` a Data Engineer
 
 - 🎧 I just launched my second project: [Resonance][resonance]!
-- :computer: I’m currently learning Data science 
-- 🗑️ I’m looking to collaborate with other content creators
+- :computer: I’m currently learning Data Science 
+- 🗑️ I’m looking to collaborate with other data developer
 - 📌 2022 Goals: Contribute more to Open Source projects
 - 📝 Fun fact: I love movies and music
 
 ### Tools
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img align="left" alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+<img align="left" alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5%20-ff0000.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" alt="C++"  src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img align="left" alt="Streamlit"  src="https://img.shields.io/badge/Streamlit%20-%2300599C.svg?&style=for-the-badge&logo=streamlit&ogoColor=white"/>
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
 
