@@ -1,4 +1,4 @@
-## I'm a wanderer in the vast virtual space of the internet 🛰️
+## Wanderer in the vast virtual space of the internet 🛰️
 
 ![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)
 <img src="bb8.gif" height="100"/>
