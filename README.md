@@ -9,7 +9,7 @@
 
 ## I'm `striving to be` a Data Engineer
 
-- 🎧 I just launched my second project: [Resonance][resonance]!
+- 🎧 I just launched my first application: [Resonance][resonance]!
 - :computer: I’m currently learning Data Science 
 - 🗑️ I’m looking to collaborate with other data developers
 - 📌 2022 Goals: Contribute more to open source projects
@@ -73,4 +73,4 @@
 [instagram]: https://www.instagram.com/nauqh_/
 [linkedin]: https://www.instagram.com/nauqh_/
 [error]: https://nauqh.github.io/error.html
-[resonance]: https://github.com/nauqh/Resonance
+[resonance]: https://resonance.streamlit.app/
