@@ -7,11 +7,10 @@
 
 ## I'm `striving to be` a Data Engineer
 
-
-- 🎧 I just launched my first application: [Resonance][resonance]!
-- :computer: I’m currently learning Data Science 
-- 📌 2023 Goals: Contribute more to open source projects
-- 📝 Fun fact: I love movies and music
+- [x] 🎧 I just launched my first application: [Resonance][resonance]!
+- [x] :computer: I’m currently learning Data Science 
+- [x] 📌 2023 Goals: Contribute more to open source projects
+- [x] 📝 Fun fact: I love movies and music
 
 ### Tools
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&colorB=0077b6"/>
