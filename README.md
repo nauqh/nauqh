@@ -7,6 +7,7 @@
 
 ## I'm `striving to be` a Data Engineer
 
+
 - 🎧 I just launched my first application: [Resonance][resonance]!
 - :computer: I’m currently learning Data Science 
 - 📌 2023 Goals: Contribute more to open source projects
