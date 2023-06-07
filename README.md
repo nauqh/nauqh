@@ -7,7 +7,7 @@
 
 ## I'm `striving to be` a Data Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Data+Engineer&color=0a192f)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Data+Engineer&color=64FFDA&background=0A192F&center=true)](https://git.io/typing-svg)
 
 - [x] 🎧 I just launched my first application: [Resonance][resonance]!
 - [x] :computer: I’m currently learning Data Science 
