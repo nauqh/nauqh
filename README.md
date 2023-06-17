@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/nauqh-V2.0.0-blue?style=for-the-badge)](https://nauqh.github.io)
 ![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge&logoColor=white)
 
-## I'm `striving to be` a
+### I'm `striving to be` a
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Data+Engineer&color=64FFDA&background=0A192F&center=true)](https://git.io/typing-svg)
 
