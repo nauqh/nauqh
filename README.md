@@ -41,4 +41,4 @@
 </details>
 
 
-[resonance]: https://resonance.streamlit.app/
+[resonance]: https://resonances.streamlit.app/
