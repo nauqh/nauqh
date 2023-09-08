@@ -17,7 +17,7 @@
 ### Languages & Tools
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&colorB=0077b6"/>
 <img align="left" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&colorB=5ab1bb" />
-<img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&colorB=a3b18a" />
+<img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&colorB=a3b18a" />
 <img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&colorB=a5c882"/>
 <img align="left" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&colorB=a98467" />
 <img alt="Fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&colorB=f7dd72&logoColor=white" />
