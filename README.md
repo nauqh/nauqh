@@ -20,7 +20,8 @@
 <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&colorB=a3b18a" />
 <img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&colorB=a5c882"/>
 <img align="left" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&colorB=a98467" />
-<img alt="Fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&colorB=f7dd72&logoColor=white" />
+<img align="left" alt="Fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&colorB=c8b6ff" />
+<img alt="Fastapi" src="https://img.shields.io/badge/Streamlit%20-%2300599C.svg?&style=for-the-badge&logo=streamlit&colorB=f7dd72" />
 
 <p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauqh&layout=compact" alt="nauqh" /></p>
