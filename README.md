@@ -10,9 +10,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Data+Engineer&color=64FFDA&background=0A192F&center=true)](https://git.io/typing-svg)
 
 - [x] 🎧 I just launched my first application: [Resonance][resonance]!
-- [x] :computer: I’m currently learning Data Science 
-- [x] 📌 2023 Goals: Contribute more to open source projects
-- [x] 📝 Fun fact: I love movies and music
+- [x] 🎮 I’m currently learning Data Science 
+- [x] 📮 2023 Goals: Contribute more to open source projects
+- [x] ☕ Fun fact: I love movies and music
 
 ### Languages & Tools
 
@@ -25,7 +25,7 @@
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&colorB=c8b6ff)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&colorB=31572c)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 <p>
