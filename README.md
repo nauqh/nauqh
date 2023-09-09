@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Wan</h1>
+<h1>Hi 🛸, I'm Wan</h1>
 
 <img align="right" width="300" src="coder.gif">
 
@@ -21,14 +21,14 @@ const wan = {
             python: ["Django", "Fastapi"]
         },
         data: {
-            ml: ["Tensorflow"],
-            databases: ["mongo", "MySql", "sqlite"],
+            ml: ["Pandas", "Numpy", "Tensorflow"],
+            databases: ["PostgreSQL", "MongoDB", "SQLite"],
         },
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "I am working on a music recommendation system 🎧",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "I am working on a music recommendation system 🏢",
+    funFact: "I love movies 🍿 and music 🎧"
 };
 ```
 
@@ -51,6 +51,6 @@ const wan = {
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&colorB=c9184a)
 
 <p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nauqh&show_icons=true&rank_icon=github&theme=tokyonight" alt="nauqh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nauqh&show_icons=true&rank_icon=github&theme=react" alt="nauqh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauqh&layout=compact&theme=tokyonight" alt="nauqh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauqh&layout=compact&theme=react" alt="nauqh" /></p>
