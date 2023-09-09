@@ -32,7 +32,7 @@ const wan = {
 };
 ```
 
-## <img src="https://media.giphy.com/media/29oy7W6vdysY3ZxdWu/giphy.gif" width="50"> Languages & Tools
+## <img src="https://media.giphy.com/media/m9YWbV2vuiyvJbtyv1/giphy.gif" width="50"> Languages & Tools
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&colorB=00b4d8)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&colorB=0096c7)
