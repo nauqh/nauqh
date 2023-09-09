@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Wan</h1>
-<img align="right" alt="coding" width="350" src="coder.gif"
+<!-- <img align="right" alt="coding" width="350" src="coder.gif" -->
 
-<h3>Wanderer in the vast virtual space of the internet </h3>
+### Wanderer in the vast virtual space of the internet
 
 ![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -9,7 +9,6 @@
 ![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge&logoColor=white)
 
 ### <img src="https://media.giphy.com/media/dWlLf9EAC8u5Nd0ku4/giphy.gif" width="50"> A little more about me...  
-
 ```javascript
 const wan = {
     pronouns: "He" | "Him",
