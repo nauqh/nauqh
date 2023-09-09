@@ -1,4 +1,6 @@
 <h1>Hi 👋, I'm Wan</h1>
+
+<div>
 <img align="right" width="400" src="coder.gif"
 
 ## Wanderer in the vast virtual space of the internet
@@ -6,6 +8,7 @@
 
 [![Version](https://img.shields.io/badge/nauqh-V2.0.0-blue?style=for-the-badge)](https://nauqh.github.io)
 ![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge&logoColor=white)
+</div>
 
 ## <img src="https://media.giphy.com/media/dWlLf9EAC8u5Nd0ku4/giphy.gif" width="50"> A little more about me...  
 ```javascript
