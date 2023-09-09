@@ -1,14 +1,13 @@
 <h1>Hi 👋, I'm Wan</h1>
-<!-- <img align="right" alt="coding" width="350" src="coder.gif" -->
+<img align="right" width="400" src="coder.gif"
 
-### Wanderer in the vast virtual space of the internet
-
+## Wanderer in the vast virtual space of the internet
 ![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)
 
 [![Version](https://img.shields.io/badge/nauqh-V2.0.0-blue?style=for-the-badge)](https://nauqh.github.io)
 ![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge&logoColor=white)
 
-### <img src="https://media.giphy.com/media/dWlLf9EAC8u5Nd0ku4/giphy.gif" width="50"> A little more about me...  
+## <img src="https://media.giphy.com/media/dWlLf9EAC8u5Nd0ku4/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const wan = {
     pronouns: "He" | "Him",
@@ -31,7 +30,7 @@ const wan = {
 };
 ```
 
-## Languages & Tools
+## <img src="https://media.giphy.com/media/m9YWbV2vuiyvJbtyv1/giphy.gif" width="50"> Languages & Tools
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&colorB=00b4d8)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&colorB=0096c7)
