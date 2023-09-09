@@ -17,8 +17,8 @@ const wan = {
     askMeAbout: ["data engineer", "data modeling", "software dev"],
     technologies: {
         software🏬: {
-            js: ["React", "Node"],
-            python: ["Django", "Fastapi"]
+            python: ["Django", "Fastapi"],
+            js: ["React", "Node", "Express"],
         },
         data📦: {
             ml: ["Pandas", "Numpy", "Tensorflow"],
@@ -27,7 +27,10 @@ const wan = {
         },
         viz📊: ["ggplot", "plotly", "tableau", "streamlit", "figma"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    readings: 
+        ["The Data Warehouse Toolkit", 
+        "Designing Data-Intensive Applications", 
+        "Storytelling with Data"],
     currentFocus: "I am building a music recommendation system 🎧",
     funFact: "I love movies 🎬 and music 🎵"
 };
