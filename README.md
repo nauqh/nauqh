@@ -16,16 +16,16 @@ const wan = {
     code: ["Python", "Typescript", "R", "Java"],
     askMeAbout: ["data engineer", "data modeling", "software dev"],
     technologies: {
-        🏬software: {
+        software🏬: {
             js: ["React", "Node"],
             python: ["Django", "Fastapi"]
         },
-        📦data: {
+        data📦: {
             ml: ["Pandas", "Numpy", "Tensorflow"],
             engineering: ["Airflow", "Snowflake", "Power BI"],
             databases: ["PostgreSQL", "MongoDB", "SQL Server"],
         },
-        📊viz: ["ggplot", "plotly", "tableau", "streamlit", "figma"]
+        viz📊: ["ggplot", "plotly", "tableau", "streamlit", "figma"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "I am building a music recommendation system 🎧",
