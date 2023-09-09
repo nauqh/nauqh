@@ -22,13 +22,14 @@ const wan = {
         },
         data: {
             ml: ["Pandas", "Numpy", "Tensorflow"],
-            databases: ["PostgreSQL", "MongoDB", "SQLite"],
+            engineering: ["Airflow", "Snowflake", "Power BI"],
+            databases: ["PostgreSQL", "MongoDB", "SQL Server"],
         },
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        viz: ["ggplot", "plotly", "tableau", "streamlit", "figma"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "I am working on a music recommendation system 🏢",
-    funFact: "I love movies 🍿 and music 🎧"
+    currentFocus: "I am building a music recommendation system 🎧",
+    funFact: "I love movies 🎬 and music 🎵"
 };
 ```
 
