@@ -51,6 +51,6 @@ const wan = {
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&colorB=c9184a)
 
 <p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nauqh&show_icons=true" alt="nauqh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nauqh&show_icons=true&rank_icon=github&theme=tokyonight" alt="nauqh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauqh&layout=compact" alt="nauqh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauqh&layout=compact&theme=tokyonight" alt="nauqh" /></p>
