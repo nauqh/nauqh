@@ -57,7 +57,7 @@ const wan = {
 
 ## <img src="https://media.giphy.com/media/NZTnEs7Wa6ub2MuyzJ/giphy.gif" width="50"> Featured projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=Resonance-app&show_owner=true&theme=react)](https://github.com/nauqh/Resonance-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=Ashema&show_owner=true&theme=react)](https://github.com/nauqh/Ashema)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=Resonance-app&show_owner=true&theme=tokyonight)](https://github.com/nauqh/Resonance-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=Ashema&show_owner=true&theme=tokyonight)](https://github.com/nauqh/Ashema)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nauqh&show_icons=true&rank_icon=github&theme=react" alt="nauqh" /></p>
