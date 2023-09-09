@@ -37,7 +37,7 @@ const wan = {
 };
 ```
 
-## <img src="https://media.giphy.com/media/m9YWbV2vuiyvJbtyv1/giphy.gif" width="50"> Languages & Tools
+## <img src="https://media.giphy.com/media/NZTnEs7Wa6ub2MuyzJ/giphy.gif" width="50"> Languages & Tools
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&colorB=00b4d8)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&colorB=0096c7)
@@ -55,7 +55,7 @@ const wan = {
 ![Streamlit](https://img.shields.io/badge/Streamlit%20-%2300599C.svg?&style=for-the-badge&logo=streamlit&colorB=ff4d6d&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&colorB=c9184a)
 
-## <img src="https://media.giphy.com/media/NZTnEs7Wa6ub2MuyzJ/giphy.gif" width="50"> Featured projects
+## <img src="https://media.giphy.com/media/m9YWbV2vuiyvJbtyv1/giphy.gif" width="50"> Featured projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=Resonance-app&show_owner=true)](https://github.com/nauqh/Resonance-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=Ashema&show_owner=true)](https://github.com/nauqh/Ashema)
