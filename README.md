@@ -49,8 +49,6 @@ const wan = {
 ![Streamlit](https://img.shields.io/badge/Streamlit%20-%2300599C.svg?&style=for-the-badge&logo=streamlit&colorB=ff4d6d&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&colorB=c9184a)
 
-<hr>
-
 <p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nauqh&show_icons=true" alt="nauqh" /></p>
 
