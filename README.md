@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="coder.gif">
 
-### Wanderer in the vast virtual space of the internet
+### `Wanderer in the vast virtual space of the internet`
 ![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)
 
 [![Version](https://img.shields.io/badge/nauqh-V2.0.0-blue?style=for-the-badge)](https://nauqh.github.io)
