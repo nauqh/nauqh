@@ -27,10 +27,11 @@ const wan = {
         },
         viz📊: ["ggplot", "plotly", "tableau", "streamlit", "figma"]
     },
-    readings: 
-        ["The Data Warehouse Toolkit", 
+    readings: [
+        "The Data Warehouse Toolkit", 
         "Designing Data-Intensive Applications", 
-        "Storytelling with Data"],
+        "Storytelling with Data"
+        ],
     currentFocus: "I am building a music recommendation system 🎧",
     funFact: "I love movies 🎬 and music 🎵"
 };
