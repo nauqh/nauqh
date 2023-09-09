@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Wan</h1>
 
-<img align="right" width="300" src="coder.gif">
+<img align="right" width="350" src="coder.gif">
 
 ## Wanderer in the vast virtual space of the internet
 ![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)
