@@ -60,5 +60,3 @@ const wan = {
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=Resonance-app&show_owner=true)](https://github.com/nauqh/Resonance-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=Ashema&show_owner=true)](https://github.com/nauqh/Ashema)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nauqh&show_icons=true&rank_icon=github&theme=react" alt="nauqh" /></p>
