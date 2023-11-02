@@ -1,4 +1,4 @@
-<h1>Hi 🛸, I'm Wan</h1>
+# Hi 🛸, I'm Wan
 
 <img align="right" width="300" src="coder.gif">
 
@@ -10,6 +10,7 @@
 
 
 ## <img src="https://media.giphy.com/media/dWlLf9EAC8u5Nd0ku4/giphy.gif" width="50"> A little more about me...  
+
 ```javascript
 const wan = {
     pronouns: "He" | "Him",
