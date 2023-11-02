@@ -57,3 +57,10 @@ const wan = {
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&colorB=c9184a)
 
 ## <img src="https://media.giphy.com/media/m9YWbV2vuiyvJbtyv1/giphy.gif" width="50"> Featured projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=Resonance-app&show_owner=true)](https://github.com/nauqh/Resonance-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=Ashema&show_owner=true)](https://github.com/nauqh/Ashema)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nauqh&show_icons=true&rank_icon=github" alt="nauqh" /></p>
+
+[![Nauqh GitHub stats](https://github-readme-stats.vercel.app/api?username=nauqh&show_icons=true&rank_icon=github)](https://github.com/nauqh)
