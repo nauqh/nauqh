@@ -58,4 +58,4 @@ const wan = {
 
 ## <img src="https://media.giphy.com/media/m9YWbV2vuiyvJbtyv1/giphy.gif" width="50"> Featured projects
 
-[![Nauqh GitHub stats](https://github-readme-stats.vercel.app/api?username=nauqh&show_icons=true&rank_icon=github)](https://github.com/nauqh)
+[![Nauqh GitHub stats](https://github-readme-stats.vercel.app/api?username=nauqh&show_icons=true)](https://github.com/nauqh)
