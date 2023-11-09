@@ -1,8 +1,8 @@
 # Hello, I'm Wan :wave:
 
-![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&label=Profile+views)
-[![Version](https://img.shields.io/badge/portfolio-V2.0.0-blue)](https://nauqh.github.io)
-![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&logoColor=white)
+![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&label=Profile+views&style=flat-square)
+[![Version](https://img.shields.io/badge/Portfolio-V2.0.0-blue?style=flat-square&logo=Github)](https://nauqh.github.io)
+![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&logoColor=white&style=flat-square)
 
 Computer science student and aspiring data engineer with  
 a passion for building data solutions to drive user engagement.
