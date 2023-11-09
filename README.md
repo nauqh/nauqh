@@ -1,4 +1,4 @@
-## Wanderer in the `vast virtual space` 🛸 of the internet
+## Hey, I'm Wan
 
 <img width="300" src="coder.gif">
 
@@ -8,7 +8,7 @@
 ![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge&logoColor=white)
 
 
-### A little more about me...  
+### Wanderer in the `vast virtual space` 🛸 of the internet
 ```javascript
 const wan = {
     pronouns: "He" | "Him",
