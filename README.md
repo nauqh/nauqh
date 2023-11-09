@@ -62,4 +62,7 @@ const wan = {
 
 ## Featured projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=Resonance-app&show_owner=true)](https://github.com/nauqh/Resonance-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=Ashema&show_owner=true)](https://github.com/nauqh/Ashema)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nauqh&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github)
