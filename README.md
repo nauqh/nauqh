@@ -1,5 +1,7 @@
 # Hello, I'm Wan :wave:
 
+<img align="right" width="300" src="coder.gif">
+
 🧑‍💻 Computer science student and aspiring data engineer with  
 a passion for building data solutions to drive user engagement.
 
@@ -12,7 +14,6 @@ Let's connect and build the future together! 🌟
 ![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&logoColor=white&style=flat-square)
 
 ## A little more about me..
-<img align="right" width="300" src="coder.gif">
 
 ```javascript
 const wan = {
