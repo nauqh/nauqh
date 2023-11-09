@@ -1,4 +1,4 @@
-# Hello 👋, I'm Wan
+# Hello, I'm Wan 👋
 
 <img width="300" src="coder.gif">
 
