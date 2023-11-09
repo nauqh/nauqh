@@ -8,7 +8,7 @@
 ![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge&logoColor=white)
 
 
-### Wanderer in the `vast virtual space` 🛸 of the internet
+## Wanderer in the vast virtual space 🛸 of the internet
 ```javascript
 const wan = {
     pronouns: "He" | "Him",
@@ -36,7 +36,7 @@ const wan = {
 };
 ```
 
-### Languages & Tools
+## Languages & Tools
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&colorB=00b4d8)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&colorB=0096c7)
@@ -54,6 +54,6 @@ const wan = {
 ![Streamlit](https://img.shields.io/badge/Streamlit%20-%2300599C.svg?&style=for-the-badge&logo=streamlit&colorB=ff4d6d&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&colorB=c9184a)
 
-### Featured projects
+## Featured projects
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nauqh&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github)
