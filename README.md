@@ -1,7 +1,6 @@
 # Hello, I'm Wan :wave:
 
 ![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)
-
 [![Version](https://img.shields.io/badge/portfolio-V2.0.0-blue?style=for-the-badge)](https://nauqh.github.io)
 ![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge&logoColor=white)
 
