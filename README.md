@@ -10,9 +10,9 @@ a passion for building data solutions to drive user engagement.
 
 `Wan`derer in the vast virtual space 🛸 of the internet.
 
+## A little more about me..
 <img width="300" src="coder.gif">
 
-## A little more about me..
 ```javascript
 const wan = {
     pronouns: "He" | "Him",
