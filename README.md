@@ -10,7 +10,7 @@ a passion for building data solutions to drive user engagement.
 Let's connect and build the future together! 🌟
 
 ![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&label=Profile+views&style=flat-square)
-[![Version](https://img.shields.io/badge/Portfolio-V2.0.0-blue?style=flat-square&logo=Github)](https://nauqh.github.io)
+[![Version](https://img.shields.io/badge/Portfolio-V2.0.0-blue?style=flat-square&logo=Github&colorB=0096c7)](https://nauqh.github.io)
 ![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&logoColor=white&style=flat-square)
 
 ## A little more about me..
