@@ -27,7 +27,7 @@ const wan = {
         },
         data: {
             ml: ["Pandas", "Numpy", "Tensorflow"],
-            engineering: ["Airflow", "Snowflake", "Power BI"],
+            engineering: ["Airflow", "Spark", "Snowflake"],
             databases: ["PostgreSQL", "MongoDB", "SQL Server"],
         },
         viz: ["ggplot", "plotly", "tableau", "streamlit", "figma"]
