@@ -7,7 +7,7 @@ a passion for building data solutions to drive user engagement.
 
 🛸 Wanderer in the vast virtual space of the internet.
 
-Let's connect and build the future together! 🌟
+Let's connect with me at [nauqh.github.io](https://nauqh.github.io)! 🌟
 
 ![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&label=Profile+views&style=flat-square)
 [![Version](https://img.shields.io/badge/Portfolio-V2.0.0-blue?style=flat-square&logo=Github&colorB=0096c7)](https://nauqh.github.io)
