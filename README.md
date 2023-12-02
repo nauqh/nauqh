@@ -22,19 +22,19 @@ const wan = {
     askMeAbout: ["data engineer", "data modeling", "software dev"],
     technologies: {
         software: {
-            python: ["Django", "Fastapi"],
+            python: ["Django", "Fastapi", "Streamlit"],
             js: ["React", "Node", "Express"],
         },
         data: {
-            ml: ["Pandas", "Numpy", "Tensorflow"],
-            engineering: ["Airflow", "Spark", "Snowflake"],
+            ml: ["Pandas", "Numpy", "Pytorch"],
+            engineering: ["Airflow", "dbt", "Snowflake"],
             databases: ["PostgreSQL", "MongoDB", "SQL Server"],
         },
-        viz: ["ggplot", "plotly", "tableau", "streamlit", "figma"]
+        viz: ["ggplot", "Plotly", "Tableau", "figma"]
     },
     readings: [
         "The Data Warehouse Toolkit", 
-        "Designing Data-Intensive Applications", 
+        "Data Engineering with dbt", 
         "Storytelling with Data"
         ],
     currentFocus: "I am building a music recommendation system 🎧",
