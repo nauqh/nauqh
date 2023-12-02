@@ -58,8 +58,7 @@ const wan = {
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&colorB=ff758f)
 ![Streamlit](https://img.shields.io/badge/Streamlit%20-%2300599C.svg?&style=for-the-badge&logo=streamlit&colorB=ff4d6d&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&colorB=c9184a)
-
+![Tensorflow](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&colorB=c9184a)
 ## Featured projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=Resonance-app&show_owner=true)](https://github.com/nauqh/Resonance-app)
