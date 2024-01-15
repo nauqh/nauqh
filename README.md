@@ -9,32 +9,32 @@ a passion for building data solutions to drive user engagement.
 
 Let's connect with me at [nauqh.github.io](https://nauqh.github.io)! 🌟
 
-![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=0ddfff&label=Profile+views&style=flat-square)
-[![Version](https://img.shields.io/badge/Portfolio-V2.0.0-blue?style=flat-square&logo=Github&colorB=0096c7)](https://nauqh.github.io)
+![Visitors](https://komarev.com/ghpvc/?username=nauqh&color=64ffda&label=Profile+views&style=flat-square)
+[![Version](https://img.shields.io/badge/Portfolio-V2.0.0-blue?style=flat-square&logo=Github&colorB=0b111e)](https://nauqh.github.io)
 ![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&logoColor=white&style=flat-square)
 
 ## A little more about me..
 
-```javascript
-const wan = {
+```typescript
+const wan = () => {
     pronouns: "He" | "Him",
     code: ["Python", "Typescript", "R", "Java"],
     askMeAbout: ["data engineer", "data modeling", "software dev"],
     technologies: {
         software: {
             python: ["Django", "Fastapi", "Streamlit"],
-            js: ["React", "Node", "Express"],
+            ts: ["React", "Node", "Chakra UI"],
         },
         data: {
             ml: ["Pandas", "Numpy", "Pytorch"],
-            engineering: ["Airflow", "dbt", "Snowflake"],
+            engineering: ["PySpark", "dbt", "Databricks"],
             databases: ["PostgreSQL", "MongoDB", "SQL Server"],
         },
-        viz: ["ggplot", "Plotly", "Tableau", "figma"]
+        viz: ["Plotly", "Tableau", "ggplot", "figma"]
     },
     readings: [
         "The Data Warehouse Toolkit", 
-        "Data Engineering with dbt", 
+        "The Making of a Manager", 
         "Storytelling with Data"
         ],
     currentFocus: "I am building a music recommendation system 🎧",
