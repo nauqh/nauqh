@@ -18,7 +18,7 @@ Let's connect with me at [nauqh.github.io](https://nauqh.github.io)! 🌟
 ```typescript
 const wan = {
     pronouns: "He" | "Him",
-    code: ["Python", "Typescript", "R", "Java"],
+    code: ["Python", "Typescript", "SQL", "Java"],
     askMeAbout: ["data engineer", "data modeling", "software dev"],
     technologies: {
         software: {
