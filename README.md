@@ -19,7 +19,7 @@ Let's connect with me at [nauqh.github.io](https://nauqh.github.io)! 🌟
 const wan = {
     pronouns: "He" | "Him",
     code: ["Python", "Typescript", "SQL", "Java"],
-    askMeAbout: ["data engineer", "data modeling", "software dev"],
+    askMeAbout: ["data engineering", "data analysis", "software dev"],
     technologies: {
         software: {
             python: ["Django", "Fastapi", "Streamlit"],
@@ -27,10 +27,10 @@ const wan = {
         },
         data: {
             ml: ["Pandas", "Numpy", "Pytorch"],
-            engineering: ["PySpark", "dbt", "Databricks"],
-            databases: ["PostgreSQL", "MongoDB", "SQL Server"],
+            engineering: ["PySpark", "Databricks"],
+            databases: ["PostgreSQL", "MongoDB", "SQLite"],
         },
-        viz: ["Plotly", "Tableau", "ggplot", "figma"]
+        visualization: ["Plotly", "Tableau", "ggplot", "figma"]
     },
     readings: [
         "The Data Warehouse Toolkit", 
