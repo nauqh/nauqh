@@ -60,7 +60,7 @@ const wan = {
 ![Tensorflow](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&colorB=c9184a)
 
 ## Achievements
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=resonance&show_owner=true)](https://github.com/nauqh/resonance)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=porobot&show_owner=true)](https://github.com/nauqh/porobot) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=resonance&show_owner=true)](https://github.com/nauqh/resonance)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=porobot&show_owner=true)](https://github.com/nauqh/porobot)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=nauqh&count_private=true&show_icons=true&rank_icon=github)](https://github.com/nauqh/nauqh)
