@@ -7,7 +7,9 @@ a passion for building data solutions to drive user engagement.
 
 🛸 Wanderer in the vast virtual space of the internet.
 
-Let's connect with me at [nauqh.github.io](https://nauqh.github.io)! 🌟
+Let's connect with me at [nauqh.github.io](https://nauqh.github.io) 🌟
+
+Visit my recent launched website at [musicotherapy](https://musicotherapy.vercel.app/) 🚀
 
 ![Visitors](https://komarev.com/ghpvc/?username=nauqh&label=Profile+views&style=flat-square)
 [![Version](https://img.shields.io/badge/Portfolio-V2.0.0-blue?style=flat-square&logo=Github&colorB=00b4d8)](https://nauqh.github.io)
@@ -16,7 +18,7 @@ Let's connect with me at [nauqh.github.io](https://nauqh.github.io)! 🌟
 ## A little more about me..
 
 ```typescript
-const wan = {
+const Wan = {
     pronouns: "He" | "Him",
     code: ["Python", "Typescript", "SQL", "Java"],
     askMeAbout: ["data engineering", "data analysis", "software dev"],
