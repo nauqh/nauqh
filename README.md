@@ -21,14 +21,14 @@ Visit my recent launched website at [musicotherapy](https://musicotherapy.vercel
 const Wan = {
     pronouns: "He" | "Him",
     code: ["Python", "Typescript", "SQL", "Java"],
-    askMeAbout: ["data engineering", "data analysis", "software dev"],
+    askMeAbout: ["data engineering", "data analysis", "software development"],
     technologies: {
         software: {
             python: ["Django", "Fastapi", "Streamlit"],
-            ts: ["React", "Node", "Chakra UI"],
+            ts: ["React", "Nextjs"],
         },
         data: {
-            ml: ["Pandas", "Numpy", "Pytorch"],
+            ml: ["Pandas", "Numpy", "Pytorch",  "Langchain"],
             engineering: ["PySpark", "Databricks"],
             databases: ["PostgreSQL", "MongoDB", "SQLite"],
         },
