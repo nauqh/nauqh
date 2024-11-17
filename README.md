@@ -1,6 +1,6 @@
 <img align="right" width="300" src="octocat.png">
 
-<span style="font-size: 5rem;"> Hello, I'm Wan :wave:</span>
+<h1 style="text-decoration: none;"> Hello, I'm Wan :wave:</h1>
 
 🧑‍💻 Computer science student and aspiring data engineer with  
 a passion for building data solutions to drive user engagement.
