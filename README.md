@@ -2,10 +2,8 @@
 
 <img align="right" width="260" src="octocat.png">
 
-🧑‍💻 Computer science student and aspiring data engineer with  
+🧑‍💻 Computer science student and aspiring analytics engineer with  
 a passion for building data solutions to drive user engagement.
-
-🛸 Wanderer in the vast virtual space of the internet.
 
 Let's connect with me at [nauqh.github.io](https://nauqh.github.io) 🌟
 
@@ -24,22 +22,22 @@ const Wan = {
     askMeAbout: ["data engineering", "data analysis", "software development"],
     technologies: {
         software: {
+            typescript: ["React", "Nextjs"],
             python: ["Django", "Fastapi", "Streamlit"],
-            ts: ["React", "Nextjs"],
         },
         data: {
             ml: ["Pandas", "Numpy", "Pytorch",  "Langchain"],
             engineering: ["PySpark", "Databricks"],
             databases: ["PostgreSQL", "MongoDB", "SQLite"],
         },
-        visualization: ["Plotly", "Tableau", "ggplot", "figma"]
+        visualization: ["Plotly", "Tableau", "PowerBI"]
     },
     readings: [
         "The Data Warehouse Toolkit", 
-        "The Making of a Manager", 
+        "Solution Architect's Handbook", 
         "Storytelling with Data"
         ],
-    currentFocus: "I am building a music recommendation system 🎧",
+    currentFocus: "I am building a Chatbot for Data Science course",
     funFact: "I love movies 🎬 and music 🎵"
 };
 ```
@@ -51,11 +49,16 @@ const Wan = {
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&&colorB=9d4edd)
 ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&colorB=6f2dbd)
 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-59666C?style=for-the-badge&logo=Prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&colorB=52b788)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&colorB=40916c)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&colorB=ffdd00)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&colorB=ffc300)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=white&colorB=ffc300)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&colorB=ff758f)
 ![Streamlit](https://img.shields.io/badge/Streamlit%20-%2300599C.svg?&style=for-the-badge&logo=streamlit&colorB=ff4d6d&logoColor=white)
