@@ -7,7 +7,7 @@ a passion for building data solutions to drive user engagement.
 
 🛸 Wanderer in the vast virtual space of the internet.
 
-Let's connect with me at [nauqh.github.io](https://nauqh.github.io) 🌟
+Let's connect with me at [nauqh.dev](https://nauqh.dev) 🌟
 
 Visit my recent launched website at [musicotherapy](https://musicotherapy.vercel.app/) 🚀
 
