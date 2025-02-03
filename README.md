@@ -2,18 +2,18 @@
 
 <img align="right" width="260" src="octocat.png">
 
-🧑‍💻 Computer science student and aspiring analytics engineer with  
+🧑‍💻 Computer science student and aspiring data engineer with  
 a passion for building data solutions to drive user engagement.
 
 🛸 Wanderer in the vast virtual space of the internet.
 
 Let's connect with me at [nauqh.dev](https://nauqh.dev) 🌟
 
-Visit my recent launched website at [musicotherapy](https://musicotherapy.vercel.app/) 🚀
+Visit my recent launched website at [keleidoscope.app](https://keleidoscope.vercel.app/) 🚀
 
-![Visitors](https://komarev.com/ghpvc/?username=nauqh&label=Profile+views&style=flat-square)
-[![Version](https://img.shields.io/badge/Portfolio-V2.0.0-blue?style=flat-square&logo=Github&colorB=00b4d8)](https://nauqh.github.io)
-![Discord](https://img.shields.io/discord/574921006817476608.svg?label=Discord&logo=Discord&colorB=7289da&logoColor=white&style=flat-square)
+[![Version](https://img.shields.io/badge/Portfolio-V2.0.0-blue?colorA=363a4f&colorB=00b4d8&style=for-the-badge&logo=github&logoColor=cad3f5)](https://nauqh.dev)
+[![Version](https://img.shields.io/github/stars/nauqh/resonance?colorA=363a4f&colorB=b7bdf8&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij4KPHBhdGggZD0iTTIzNS4yNCw4NC4zOGwtMjguMDYsMjMuNjgsOC41NiwzNS4zOWExMy4zNCwxMy4zNCwwLDAsMS01LjA5LDEzLjkxLDEzLjU0LDEzLjU0LDAsMCwxLTE1LC42OUwxNjQsMTM5bC0zMS42NSwxOS4wNmExMy41MSwxMy41MSwwLDAsMS0xNS0uNjksMTMuMzIsMTMuMzIsMCwwLDEtNS4xLTEzLjkxbDguNTYtMzUuMzlMOTIuNzYsODQuMzhhMTMuMzksMTMuMzksMCwwLDEsNy42Ni0yMy41OGwzNi45NC0yLjkyLDE0LjIxLTMzLjY2YTEzLjUxLDEzLjUxLDAsMCwxLDI0Ljg2LDBsMTQuMjEsMzMuNjYsMzYuOTQsMi45MmExMy4zOSwxMy4zOSwwLDAsMSw3LjY2LDIzLjU4Wk04OC4xMSwxMTEuODlhOCw4LDAsMCwwLTExLjMyLDBMMTguMzQsMTcwLjM0YTgsOCwwLDAsMCwxMS4zMiwxMS4zMmw1OC40NS01OC40NUE4LDgsMCwwLDAsODguMTEsMTExLjg5Wm0tLjUsNjEuMTlMMzQuMzQsMjI2LjM0YTgsOCwwLDAsMCwxMS4zMiwxMS4zMmw1My4yNi01My4yN2E4LDgsMCwwLDAtMTEuMzEtMTEuMzFabTczLTEtNTQuMjksNTQuMjhhOCw4LDAsMCwwLDExLjMyLDExLjMybDU0LjI4LTU0LjI4YTgsOCwwLDAsMC0xMS4zMS0xMS4zMloiIHN0eWxlPSJmaWxsOiAjQ0FEM0Y1OyIvPgo8L3N2Zz4=)](https://keleidoscope.vercel.app)
+![Discord](https://img.shields.io/discord/574921006817476608.svg?style=for-the-badge&color=c6a0f6&labelColor=363a4f&logo=discord&logoColor=cad3f5)
 
 ## A little more about me..
 
@@ -29,7 +29,7 @@ const Wan = {
         },
         data: {
             ml: ["Pandas", "Numpy", "Pytorch",  "Langchain"],
-            engineering: ["PySpark", "Databricks"],
+            engineering: ["PySpark", "Airflow", "AWS", "Databricks"],
             databases: ["PostgreSQL", "MongoDB", "SQLite"],
         },
         visualization: ["Plotly", "Tableau", "PowerBI"]
@@ -39,7 +39,7 @@ const Wan = {
         "Solution Architect's Handbook", 
         "Storytelling with Data"
         ],
-    currentFocus: "I am building a Chatbot for Data Science course",
+    currentFocus: "I am building a AI Assistant for Data Science courses",
     funFact: "I love movies 🎬 and music 🎵"
 };
 ```
@@ -68,5 +68,7 @@ const Wan = {
 ## Achievements
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=resonance&show_owner=true)](https://github.com/nauqh/resonance)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=porobot&show_owner=true)](https://github.com/nauqh/porobot) -->
+
+![Visitors](https://komarev.com/ghpvc/?username=nauqh&label=Profile+views&style=for-the-badge)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=nauqh&count_private=true&show_icons=true&rank_icon=github)](https://github.com/nauqh/nauqh)
