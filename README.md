@@ -23,7 +23,8 @@ import { useState, useEffect } from "react";
 const Wan = ({ 
     name = "Wan",
     pronouns = "He/Him", 
-    askMeAbout = ["data engineering", "data analysis", "software development"] 
+    askMeAbout = ["data engineering", "data analysis", "software development"] ,
+    language = "Python" | "TypeScript" | "SQL" | "Java"
 }) => {
     const [currentFocus, setCurrentFocus] = useState("I'm building an AI Assistant for Data Science courses");
 
@@ -45,25 +46,7 @@ const Wan = ({
     };
 
     return (
-        <>
-            <Name>{name}</Name>
-            <Pronouns>{pronouns}</Pronouns>
-            
-            <Language>
-                Python, TypeScript, SQL, Java
-            </Language>
-            
-            <AskMeAbout>{askMeAbout}</AskMeAbout>
-            
-            <Technologies>
-                {Object.entries(technologies).map(([category, techs]) => (
-                    <div key={category}>
-                        <h3>{category}</h3>
-                        <p>{Object.entries(techs).map(([tech, tools]) => `${tech}: ${tools.join(", ")}`).join(" | ")}</p>
-                    </div>
-                ))}
-            </Technologies>
-            
+        <>            
             <Readings books={[
                 "The Data Warehouse Toolkit",
                 "Solution Architect's Handbook",
