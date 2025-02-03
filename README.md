@@ -18,30 +18,63 @@ Visit my recent launched website at [keleidoscope.app](https://keleidoscope.verc
 ## A little more about me..
 
 ```typescript
-const Wan = {
-    pronouns: "He" | "Him",
-    code: ["Python", "Typescript", "SQL", "Java"],
-    askMeAbout: ["data engineering", "data analysis", "software development"],
-    technologies: {
+import { useState, useEffect } from "react";
+
+const Wan = ({ 
+    name = "Wan",
+    pronouns = "He/Him", 
+    askMeAbout = ["data engineering", "data analysis", "software development"] 
+}) => {
+    const [currentFocus, setCurrentFocus] = useState("I'm building an AI Assistant for Data Science courses");
+
+    useEffect(() => {
+        console.log("Fun Fact: I love movies 🎬 and music 🎵");
+    }, []);
+
+    const technologies = {
         software: {
             typescript: ["React", "Nextjs"],
             python: ["Django", "Fastapi", "Streamlit"],
         },
         data: {
             ml: ["Pandas", "Numpy", "Pytorch",  "Langchain"],
-            engineering: ["PySpark", "Airflow", "AWS", "Databricks"],
+            engineering: ["PySpark", "Databricks"],
             databases: ["PostgreSQL", "MongoDB", "SQLite"],
         },
         visualization: ["Plotly", "Tableau", "PowerBI"]
-    },
-    readings: [
-        "The Data Warehouse Toolkit", 
-        "Solution Architect's Handbook", 
-        "Storytelling with Data"
-        ],
-    currentFocus: "I am building a AI Assistant for Data Science courses",
-    funFact: "I love movies 🎬 and music 🎵"
+    };
+
+    return (
+        <>
+            <Name>{name}</Name>
+            <Pronouns>{pronouns}</Pronouns>
+            
+            <Language>
+                Python, TypeScript, SQL, Java
+            </Language>
+            
+            <AskMeAbout>{askMeAbout}</AskMeAbout>
+            
+            <Technologies>
+                {Object.entries(technologies).map(([category, techs]) => (
+                    <div key={category}>
+                        <h3>{category}</h3>
+                        <p>{Object.entries(techs).map(([tech, tools]) => `${tech}: ${tools.join(", ")}`).join(" | ")}</p>
+                    </div>
+                ))}
+            </Technologies>
+            
+            <Readings books={[
+                "The Data Warehouse Toolkit",
+                "Solution Architect's Handbook",
+                "Storytelling with Data"
+            ]} />
+            
+        </>
+    );
 };
+
+export default Wan;
 ```
 
 ## Languages & Tools
