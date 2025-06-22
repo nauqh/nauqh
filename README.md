@@ -2,8 +2,9 @@
 
 <img align="right" width="260" src="octocat.png">
 
-🧑‍💻 Computer science student and aspiring data engineer with  
-a passion for building data solutions to drive user engagement.
+🧑‍💻 **Full Stack Engineer** with expertise in building scalable data pipelines, automation systems, and analytics platforms. Combining software engineering with data science to deliver actionable insights and data-driven solutions.
+
+🎓 **Master of Data Science** student at Monash University | **Bachelor of Computer Science** graduate
 
 🛸 Wanderer in the vast virtual space of the internet.
 
@@ -23,10 +24,10 @@ import { useState, useEffect } from "react";
 const Wan = ({ 
     name = "Wan",
     pronouns = "He/Him", 
-    askMeAbout = ["data engineering", "data analysis", "software development"] ,
-    language = "Python" | "TypeScript" | "SQL" | "Java"
+    askMeAbout = ["data engineering", "data analysis", "software development", "automation systems"] ,
+    language = "Python" | "TypeScript" | "SQL" | "R" | "HTML/CSS"
 }) => {
-    const [currentFocus, setCurrentFocus] = useState("I'm building an AI Assistant for Data Science courses");
+    const [currentFocus, setCurrentFocus] = useState("Building AI-powered teaching assistants and automation systems");
 
     useEffect(() => {
         console.log("Fun Fact: I love movies 🎬 and music 🎵");
@@ -34,15 +35,25 @@ const Wan = ({
 
     const technologies = {
         software: {
-            typescript: ["React", "Nextjs"],
-            python: ["Django", "Fastapi", "Streamlit"],
+            typescript: ["React", "Next.js", "Tailwind CSS", "Shadcn UI"],
+            python: ["Django", "FastAPI", "Streamlit", "Langchain"],
         },
         data: {
-            ml: ["Pandas", "Numpy", "Pytorch",  "Langchain"],
-            engineering: ["PySpark", "Databricks"],
+            ml: ["Pandas", "NumPy", "PyTorch", "Scikit-learn", "Langchain"],
+            engineering: ["PySpark", "Airflow", "AWS (S3, EC2, Lambda)"],
             databases: ["PostgreSQL", "MongoDB", "SQLite"],
         },
-        visualization: ["Plotly", "Tableau", "PowerBI"]
+        visualization: ["Plotly", "Tableau", "PowerBI"],
+        tools: ["Docker", "Git", "AWS", "ChromaDB"]
+    };
+
+    const experience = {
+        currentRole: "Automation Engineer at CoderSchool",
+        achievements: [
+            "Reduced reporting time by 90%",
+            "Managed 500+ students across 5 courses",
+            "Successfully supported 20+ learners to graduate"
+        ]
     };
 
     return (
@@ -62,6 +73,7 @@ export default Wan;
 
 ## Languages & Tools
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&colorB=00b4d8)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&colorB=0096c7)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&colorB=0096c7)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&&colorB=a594f9)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&&colorB=9d4edd)
@@ -69,7 +81,7 @@ export default Wan;
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-59666C?style=for-the-badge&logo=Prisma&logoColor=white)
 
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&colorB=4ED1C5)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&colorB=52b788)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&colorB=40916c)
@@ -79,12 +91,39 @@ export default Wan;
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&colorB=ff758f)
 ![Streamlit](https://img.shields.io/badge/Streamlit%20-%2300599C.svg?&style=for-the-badge&logo=streamlit&colorB=ff4d6d&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&colorB=c9184a)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&colorB=c9184a)
+![Langchain](https://img.shields.io/badge/Langchain-00ADD8?style=for-the-badge&logo=langchain&logoColor=white&colorB=ff6b6b)
+
+## Recent Projects
+
+### 🤖 Discord AI Teaching Assistant
+*AI-powered teaching assistant with OpenAI GPT models and ChromaDB integration*
+- Built advanced code analysis engine with GitHub integration
+- Implemented knowledge retrieval system with 90% forum resolution rate
+- Serves 5 major courses with 100% positive feedback
+
+### 📚 Online Assessment Platform
+*Comprehensive examination platform for CoderSchool courses*
+- Next.js frontend with FastAPI backend and AWS S3 integration
+- Real-time code execution and autograding system
+- Serves 200+ students with 80% reduction in TA workload
+
+### 🔍 Job Board Automation
+*Intelligent job scraping and filtering platform*
+- Multi-platform job extraction with AI-powered relevance scoring
+- 100+ targeted job postings per week with 95% accuracy
+- 40% higher application rates among graduates
+
+## Experience
+- **Automation Engineer** @ CoderSchool (Oct 2024 - Present)
+- **Teaching Associate** @ CoderSchool (Nov 2023 - Present)
+- **Operations Officer** @ Google Developer Student Club (Oct 2020 - Present)
+
+## Education
+- **Master of Data Science** @ Monash University (Jul 2024 - Jun 2026)
+- **Bachelor of Computer Science** @ Monash University (Mar 2021 - Jun 2024)
 
 ## Achievements
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=resonance&show_owner=true)](https://github.com/nauqh/resonance)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauqh&repo=porobot&show_owner=true)](https://github.com/nauqh/porobot) -->
-
 ![Visitors](https://komarev.com/ghpvc/?username=nauqh&label=Profile+views&style=for-the-badge)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=nauqh&count_private=true&show_icons=true&rank_icon=github)](https://github.com/nauqh/nauqh)
