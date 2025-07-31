@@ -4,8 +4,6 @@
 
 🧑‍💻 **Full Stack Engineer** with expertise in building scalable data pipelines, automation systems, and analytics platforms. Combining software engineering with data science to deliver actionable insights and data-driven solutions.
 
-🎓 **Master of Data Science** student at Monash University | **Bachelor of Computer Science** graduate
-
 🛸 Wanderer in the vast virtual space of the internet.
 
 Let's connect with me at [nauqh.dev](https://nauqh.dev) 🌟
