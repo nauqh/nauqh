@@ -31,20 +31,6 @@ const Wan = ({
         console.log("Fun Fact: I love movies 🎬 and music 🎵");
     }, []);
 
-    const technologies = {
-        software: {
-            typescript: ["React", "Next.js", "Tailwind CSS", "Shadcn UI"],
-            python: ["Django", "FastAPI", "Streamlit", "Langchain"],
-        },
-        data: {
-            ml: ["Pandas", "NumPy", "PyTorch", "Scikit-learn", "Langchain"],
-            engineering: ["PySpark", "Airflow", "AWS (S3, EC2, Lambda)"],
-            databases: ["PostgreSQL", "MongoDB", "SQLite"],
-        },
-        visualization: ["Plotly", "Tableau", "PowerBI"],
-        tools: ["Docker", "Git", "AWS", "ChromaDB"]
-    };
-
     const experience = {
         currentRole: "Automation Engineer at CoderSchool",
         achievements: [
@@ -92,36 +78,9 @@ export default Wan;
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&colorB=c9184a)
 ![Langchain](https://img.shields.io/badge/Langchain-00ADD8?style=for-the-badge&logo=langchain&logoColor=white&colorB=ff6b6b)
 
-## Recent Projects
-
-### 🤖 Discord AI Teaching Assistant
-*AI-powered teaching assistant with OpenAI GPT models and ChromaDB integration*
-- Built advanced code analysis engine with GitHub integration
-- Implemented knowledge retrieval system with 90% forum resolution rate
-- Serves 5 major courses with 100% positive feedback
-
-### 📚 Online Assessment Platform
-*Comprehensive examination platform for CoderSchool courses*
-- Next.js frontend with FastAPI backend and AWS S3 integration
-- Real-time code execution and autograding system
-- Serves 200+ students with 80% reduction in TA workload
-
-### 🔍 Job Board Automation
-*Intelligent job scraping and filtering platform*
-- Multi-platform job extraction with AI-powered relevance scoring
-- 100+ targeted job postings per week with 95% accuracy
-- 40% higher application rates among graduates
-
-## Experience
-- **Automation Engineer** @ CoderSchool (Oct 2024 - Present)
-- **Teaching Associate** @ CoderSchool (Nov 2023 - Present)
-- **Operations Officer** @ Google Developer Student Club (Oct 2020 - Present)
-
-## Education
-- **Master of Data Science** @ Monash University (Jul 2024 - Jun 2026)
-- **Bachelor of Computer Science** @ Monash University (Mar 2021 - Jun 2024)
-
-## Achievements
+<!-- ## Achievements -->
+---
 ![Visitors](https://komarev.com/ghpvc/?username=nauqh&label=Profile+views&style=for-the-badge)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=nauqh&count_private=true&show_icons=true&rank_icon=github)](https://github.com/nauqh/nauqh)
+<!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=nauqh&count_private=true&show_icons=true&rank_icon=github)](https://github.com/nauqh/nauqh) -->
+
